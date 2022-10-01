@@ -1,0 +1,15 @@
+/Users/vladimirivanov/Desktop/Учеба/HomeWork04C#/Task25/bin/Debug/net6.0/Task
+/Users/vladimirivanov/Desktop/Учеба/HomeWork04C#/Task25/bin/Debug/net6.0/Task.deps.json
+/Users/vladimirivanov/Desktop/Учеба/HomeWork04C#/Task25/bin/Debug/net6.0/Task.runtimeconfig.json
+/Users/vladimirivanov/Desktop/Учеба/HomeWork04C#/Task25/bin/Debug/net6.0/Task.dll
+/Users/vladimirivanov/Desktop/Учеба/HomeWork04C#/Task25/bin/Debug/net6.0/Task.pdb
+/Users/vladimirivanov/Desktop/Учеба/HomeWork04C#/Task25/obj/Debug/net6.0/Task.csproj.AssemblyReference.cache
+/Users/vladimirivanov/Desktop/Учеба/HomeWork04C#/Task25/obj/Debug/net6.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirivanov/Desktop/Учеба/HomeWork04C#/Task25/obj/Debug/net6.0/Task.AssemblyInfoInputs.cache
+/Users/vladimirivanov/Desktop/Учеба/HomeWork04C#/Task25/obj/Debug/net6.0/Task.AssemblyInfo.cs
+/Users/vladimirivanov/Desktop/Учеба/HomeWork04C#/Task25/obj/Debug/net6.0/Task.csproj.CoreCompileInputs.cache
+/Users/vladimirivanov/Desktop/Учеба/HomeWork04C#/Task25/obj/Debug/net6.0/Task.dll
+/Users/vladimirivanov/Desktop/Учеба/HomeWork04C#/Task25/obj/Debug/net6.0/refint/Task.dll
+/Users/vladimirivanov/Desktop/Учеба/HomeWork04C#/Task25/obj/Debug/net6.0/Task.pdb
+/Users/vladimirivanov/Desktop/Учеба/HomeWork04C#/Task25/obj/Debug/net6.0/Task.genruntimeconfig.cache
+/Users/vladimirivanov/Desktop/Учеба/HomeWork04C#/Task25/obj/Debug/net6.0/ref/Task.dll

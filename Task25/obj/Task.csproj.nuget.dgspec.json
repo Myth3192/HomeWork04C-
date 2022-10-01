@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/vladimirivanov/Desktop/Учеба/HomeWork04C#/Task/Task.csproj": {}
+    "/Users/vladimirivanov/Desktop/Учеба/HomeWork04C#/Task25/Task.csproj": {}
   },
   "projects": {
-    "/Users/vladimirivanov/Desktop/Учеба/HomeWork04C#/Task/Task.csproj": {
+    "/Users/vladimirivanov/Desktop/Учеба/HomeWork04C#/Task25/Task.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vladimirivanov/Desktop/Учеба/HomeWork04C#/Task/Task.csproj",
+        "projectUniqueName": "/Users/vladimirivanov/Desktop/Учеба/HomeWork04C#/Task25/Task.csproj",
         "projectName": "Task",
-        "projectPath": "/Users/vladimirivanov/Desktop/Учеба/HomeWork04C#/Task/Task.csproj",
+        "projectPath": "/Users/vladimirivanov/Desktop/Учеба/HomeWork04C#/Task25/Task.csproj",
         "packagesPath": "/Users/vladimirivanov/.nuget/packages/",
-        "outputPath": "/Users/vladimirivanov/Desktop/Учеба/HomeWork04C#/Task/obj/",
+        "outputPath": "/Users/vladimirivanov/Desktop/Учеба/HomeWork04C#/Task25/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/vladimirivanov/.nuget/NuGet/NuGet.Config"
