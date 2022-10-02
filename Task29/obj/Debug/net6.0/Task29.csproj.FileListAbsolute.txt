@@ -1,0 +1,15 @@
+/Users/vladimirivanov/Desktop/Учеба/HomeWork04C#/Task29/obj/Debug/net6.0/Task29.csproj.AssemblyReference.cache
+/Users/vladimirivanov/Desktop/Учеба/HomeWork04C#/Task29/obj/Debug/net6.0/Task29.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirivanov/Desktop/Учеба/HomeWork04C#/Task29/obj/Debug/net6.0/Task29.AssemblyInfoInputs.cache
+/Users/vladimirivanov/Desktop/Учеба/HomeWork04C#/Task29/obj/Debug/net6.0/Task29.AssemblyInfo.cs
+/Users/vladimirivanov/Desktop/Учеба/HomeWork04C#/Task29/obj/Debug/net6.0/Task29.csproj.CoreCompileInputs.cache
+/Users/vladimirivanov/Desktop/Учеба/HomeWork04C#/Task29/bin/Debug/net6.0/Task29
+/Users/vladimirivanov/Desktop/Учеба/HomeWork04C#/Task29/bin/Debug/net6.0/Task29.deps.json
+/Users/vladimirivanov/Desktop/Учеба/HomeWork04C#/Task29/bin/Debug/net6.0/Task29.runtimeconfig.json
+/Users/vladimirivanov/Desktop/Учеба/HomeWork04C#/Task29/bin/Debug/net6.0/Task29.dll
+/Users/vladimirivanov/Desktop/Учеба/HomeWork04C#/Task29/bin/Debug/net6.0/Task29.pdb
+/Users/vladimirivanov/Desktop/Учеба/HomeWork04C#/Task29/obj/Debug/net6.0/Task29.dll
+/Users/vladimirivanov/Desktop/Учеба/HomeWork04C#/Task29/obj/Debug/net6.0/refint/Task29.dll
+/Users/vladimirivanov/Desktop/Учеба/HomeWork04C#/Task29/obj/Debug/net6.0/Task29.pdb
+/Users/vladimirivanov/Desktop/Учеба/HomeWork04C#/Task29/obj/Debug/net6.0/Task29.genruntimeconfig.cache
+/Users/vladimirivanov/Desktop/Учеба/HomeWork04C#/Task29/obj/Debug/net6.0/ref/Task29.dll
